@@ -1,0 +1,27 @@
+,dribbles_vs,position,dribble_tackles,dribble_tackles_pct,age,pressure_regain_pct,pressure_regains,minutes_90s,pressures,nationality,player
+0,3,GK,0,0.0,36,0.0,0,32.0,8,eng ENG,Ben Foster
+1,54,MF,14,25.9,26,24.5,204,29.5,832,fr FRA,Abdoulaye Doucouré
+2,30,DF,10,33.3,30,34.9,68,27.6,195,nir NIR,Craig Cathcart
+3,87,MF,35,40.2,31,26.3,163,26.6,619,fr FRA,Étienne Capoue
+4,66,FW,13,19.7,25,26.0,133,23.3,511,es ESP,Gerard Deulofeu
+5,72,MF,21,29.2,24,25.5,139,19.5,545,eng ENG,Will Hughes
+6,22,DF,8,36.4,29,38.2,55,20.2,144,eng ENG,Craig Dawson
+7,53,DF,17,32.1,28,25.8,84,19.7,326,es ESP,Kiko Femenía
+8,25,FW,8,32.0,31,23.5,85,19.6,361,eng ENG,Troy Deeney
+9,28,DF,13,46.4,28,33.0,66,19.0,200,be BEL,Christian Kabasele
+10,14,"FW,MF",2,14.3,21,25.9,87,16.6,336,sn SEN,Ismaila Sarr
+11,37,DF,12,32.4,25,29.3,66,16.4,225,it ITA,Adam Masina
+12,22,"FW,MF",4,18.2,28,27.5,84,16.3,306,ar ARG,Roberto Pereyra
+13,27,DF,9,33.3,32,31.1,51,13.8,164,jm JAM,Adrian Mariappa
+14,25,DF,6,24.0,35,33.0,59,11.4,179,gr GRE,José Holebas
+15,23,MF,6,26.1,24,28.1,56,8.9,199,eng ENG,Nathaniel Chalobah
+16,27,MF,7,25.9,29,29.6,60,8.0,203,eng ENG,Tom Cleverley
+17,1,FW,1,100.0,28,27.6,43,8.1,156,eng ENG,Andre Gray
+18,17,DF,6,35.3,30,22.6,31,6.7,137,nl NED,Daryl Janmaat
+19,3,"FW,MF",1,33.3,28,38.5,37,4.6,96,eng ENG,Danny Welbeck
+20,1,"MF,DF",0,0.0,26,33.3,6,0.7,18,fr FRA,Dimitri Foulquier
+21,0,DF,0,,32,0.0,0,0.6,3,at AUT,Sebastian Prödl
+22,9,"FW,DF",3,33.3,23,21.1,8,0.8,38,ar ARG,Ignacio Pussetto
+23,0,"FW,MF",0,,23,14.3,2,0.8,14,ng NGA,Isaac Success
+24,3,MF,1,33.3,19,18.8,3,0.2,16,pt POR,Domingos Quina
+25,0,FW,0,,17,0.0,0,0.2,2,br BRA,João Pedro

@@ -1,0 +1,29 @@
+,age,passes,passes_completed,passes_pct,player,nationality,minutes_90s,position,passes_progressive_distance
+0,28,755,577,76.4,David de Gea,es ESP,31.0,GK,8973
+1,26,1927,1692,87.8,Harry Maguire,eng ENG,31.0,DF,9375
+2,21,1710,1371,80.2,Aaron Wan-Bissaka,eng ENG,27.9,DF,8015
+3,25,1589,1385,87.2,Victor Lindelöf,se SWE,27.9,DF,8730
+4,21,772,561,72.7,Daniel James,wal WAL,24.9,FW,2120
+5,21,684,515,75.3,Marcus Rashford,eng ENG,22.7,FW,2118
+6,23,551,447,81.1,Anthony Martial,fr FRA,22.6,FW,1338
+7,26,1626,1382,85.0,Fred,br BRA,23.2,MF,6874
+8,22,900,727,80.8,Scott McTominay,sco SCO,18.3,MF,3679
+9,23,756,554,73.3,Andreas Pereira,br BRA,16.2,"MF,FW",2679
+10,24,1056,910,86.2,Luke Shaw,eng ENG,15.7,DF,5128
+11,30,763,663,86.9,Nemanja Matić,rs SRB,11.8,MF,3246
+12,34,735,565,76.9,Ashley Young,eng ENG,10.6,DF,4575
+13,26,391,334,85.4,Jesse Lingard,eng ENG,9.9,"MF,FW",932
+14,18,445,362,81.3,Brandon Williams,eng ENG,8.4,DF,1778
+15,31,512,434,84.8,Juan Mata,es ESP,8.3,"MF,FW",1560
+16,24,425,298,70.1,Bruno Fernandes,pt POR,6.8,MF,1622
+17,26,554,462,83.4,Paul Pogba,fr FRA,7.0,MF,2443
+18,17,276,231,83.7,Mason Greenwood,eng ENG,8.5,"FW,MF",671
+19,21,141,127,90.1,Axel Tuanzebe,eng ENG,2.1,DF,660
+20,27,89,79,88.8,Phil Jones,eng ENG,1.5,DF,398
+21,29,55,37,67.3,Marcos Rojo,ar ARG,1.4,DF,323
+22,25,40,33,82.5,Eric Bailly,ci CIV,1.2,DF,279
+23,20,64,51,79.7,Diogo Dalot,pt POR,0.7,DF,248
+24,30,13,12,92.3,Odion Ighalo,ng NGA,0.6,FW,10
+25,19,14,9,64.3,Tahith Chong,nl NED,0.4,"FW,MF",35
+26,18,13,11,84.6,Angel Gomes,eng ENG,0.2,MF,83
+27,18,15,15,100.0,James Garner,eng ENG,0.1,MF,44

@@ -1,0 +1,35 @@
+,age,minutes,xg_per90,position,npxg_per90,nationality,player,xa_per90
+0,20,"2,790",0.02,MF,0.02,eng ENG,Declan Rice,0.04
+1,32,"2,298",0.11,MF,0.02,eng ENG,Mark Noble,0.06
+2,29,"2,203",0.05,DF,0.05,eng ENG,Aaron Cresswell,0.07
+3,31,"2,160",0.06,DF,0.06,it ITA,Angelo Ogbonna,0.00
+4,25,"2,147",0.30,FW,0.30,fr FRA,Sébastien Haller,0.08
+5,22,"2,136",0.06,DF,0.06,fr FRA,Issa Diop,0.01
+6,26,"1,787",0.00,DF,0.00,eng ENG,Ryan Fredericks,0.08
+7,26,"1,493",0.15,"MF,FW",0.15,br BRA,Felipe Anderson,0.17
+8,34,"1,487",0.00,GK,0.00,pl POL,Łukasz Fabiański,0.00
+9,23,"1,615",0.16,"MF,FW",0.16,es ESP,Pablo Fornals,0.11
+10,31,"1,509",0.15,"MF,FW",0.15,sco SCO,Robert Snodgrass,0.17
+11,27,"1,171",0.13,DF,0.13,py PAR,Fabián Balbuena,0.00
+12,26,"1,232",0.13,"MF,FW",0.13,ar ARG,Manuel Lanzini,0.17
+13,29,"1,210",0.39,"FW,MF",0.39,eng ENG,Michail Antonio,0.14
+14,25,913,0.01,DF,0.01,cd COD,Arthur Masuaku,0.09
+15,29,837,0.16,MF,0.16,ua UKR,Andriy Yarmolenko,0.27
+16,33,687,0.00,GK,0.00,es ESP,Roberto,0.00
+17,34,592,0.01,DF,0.01,ar ARG,Pablo Zabaleta,0.06
+18,18,440,0.01,DF,0.01,eng ENG,Jeremy Ngakia,0.00
+19,24,410,0.03,MF,0.03,cz CZE,Tomáš Souček,0.00
+20,33,436,0.00,GK,0.00,eng ENG,David Martin,0.00
+21,22,364,0.18,"FW,MF",0.18,eng ENG,Jarrod Bowen,0.18
+22,32,180,0.00,GK,0.00,ie IRL,Darren Randolph,0.00
+23,27,178,0.00,MF,0.00,eng ENG,Jack Wilshere,0.00
+24,33,117,0.00,"MF,DF",0.00,co COL,Carlos Sánchez,0.00
+25,31,107,0.62,FW,0.62,mx MEX,Javier Hernández,0.00
+26,22,134,0.07,"MF,FW",0.07,ch SUI,Albian Ajeti,0.04
+27,21,33,0.10,MF,0.10,eng ENG,Nathan Holland,0.00
+28,19,,,GK,,gh GHA,Joseph Anang,
+29,18,,,DF,,pt POR,Gonçalo Cardoso,
+30,18,,,MF,,br BRA,Bernardo Costa Da Rosa,
+31,19,,,DF,,eng ENG,Ben Johnson,
+32,31,,,DF,,nz NZL,Winston Reid,
+33,22,,,FW,,pt POR,Xande Silva,

@@ -1,0 +1,29 @@
+,age,pressure_regain_pct,dribble_tackles_pct,dribble_tackles,pressures,player,pressure_regains,nationality,dribbles_vs,minutes_90s,position
+0,28,0.0,,0,1,David de Gea,0,es ESP,0,31.0,GK
+1,26,37.6,41.4,12,202,Harry Maguire,76,eng ENG,29,31.0,DF
+2,21,28.2,60.3,41,525,Aaron Wan-Bissaka,148,eng ENG,68,27.9,DF
+3,25,32.4,92.3,12,173,Victor Lindelöf,56,se SWE,13,27.9,DF
+4,21,25.3,13.6,6,561,Daniel James,142,wal WAL,44,24.9,FW
+5,21,25.2,35.0,7,310,Marcus Rashford,78,eng ENG,20,22.7,FW
+6,23,29.4,0.0,0,316,Anthony Martial,93,fr FRA,6,22.6,FW
+7,26,27.7,27.7,26,694,Fred,192,br BRA,94,23.2,MF
+8,22,31.2,42.9,15,247,Scott McTominay,77,sco SCO,35,18.3,MF
+9,23,26.8,24.4,10,422,Andreas Pereira,113,br BRA,41,16.2,"MF,FW"
+10,24,30.0,44.8,13,243,Luke Shaw,73,eng ENG,29,15.7,DF
+11,30,31.4,26.3,5,185,Nemanja Matić,58,rs SRB,19,11.8,MF
+12,34,29.4,9.5,2,119,Ashley Young,35,eng ENG,21,10.6,DF
+13,26,24.5,21.4,3,323,Jesse Lingard,79,eng ENG,14,9.9,"MF,FW"
+14,18,23.5,21.1,4,132,Brandon Williams,31,eng ENG,19,8.4,DF
+15,31,30.2,15.4,2,116,Juan Mata,35,es ESP,13,8.3,"MF,FW"
+16,24,23.6,18.2,4,148,Bruno Fernandes,35,pt POR,22,6.8,MF
+17,26,39.2,40.0,6,102,Paul Pogba,40,fr FRA,15,7.0,MF
+18,17,33.1,38.5,5,145,Mason Greenwood,48,eng ENG,13,8.5,"FW,MF"
+19,21,26.7,0.0,0,30,Axel Tuanzebe,8,eng ENG,1,2.1,DF
+20,27,50.0,100.0,2,18,Phil Jones,9,eng ENG,2,1.5,DF
+21,29,25.0,0.0,0,16,Marcos Rojo,4,ar ARG,3,1.4,DF
+22,25,20.0,0.0,0,15,Eric Bailly,3,ci CIV,1,1.2,DF
+23,20,50.0,50.0,2,8,Diogo Dalot,4,pt POR,4,0.7,DF
+24,30,21.4,100.0,1,14,Odion Ighalo,3,ng NGA,1,0.6,FW
+25,19,26.7,,0,15,Tahith Chong,4,nl NED,0,0.4,"FW,MF"
+26,18,9.1,,0,11,Angel Gomes,1,eng ENG,0,0.2,MF
+27,18,0.0,0.0,0,2,James Garner,0,eng ENG,1,0.1,MF

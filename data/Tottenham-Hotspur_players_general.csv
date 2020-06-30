@@ -1,0 +1,34 @@
+,xa_per90,npxg_per90,xg_per90,nationality,minutes,position,age,player
+0,0.03,0.03,0.03,be BEL,"2,417",DF,30,Toby Alderweireld
+1,0.12,0.02,0.02,ci CIV,"2,091",DF,26,Serge Aurier
+2,0.00,0.03,0.03,co COL,"2,070",DF,23,Davinson Sánchez
+3,0.08,0.30,0.37,eng ENG,"1,958",FW,26,Harry Kane
+4,0.26,0.30,0.34,kr KOR,"1,918",FW,27,Son Heung-min
+5,0.05,0.10,0.10,fr FRA,"1,869",MF,29,Moussa Sissoko
+6,0.11,0.31,0.35,eng ENG,"1,816","MF,FW",23,Dele Alli
+7,0.05,0.02,0.02,eng ENG,"1,682",MF,23,Harry Winks
+8,0.09,0.28,0.28,br BRA,"1,753","FW,MF",26,Lucas Moura
+9,0.05,0.03,0.03,be BEL,"1,543",DF,32,Jan Vertonghen
+10,0.02,0.00,0.00,ar ARG,"1,613",GK,27,Paulo Gazzaniga
+11,0.00,0.00,0.00,fr FRA,"1,177",GK,32,Hugo Lloris
+12,0.01,0.08,0.08,eng ENG,"1,074","MF,DF",25,Eric Dier
+13,0.12,0.04,0.04,fr FRA,944,MF,22,Tanguy Ndombele
+14,0.14,0.20,0.20,ar ARG,"1,037","MF,FW",27,Érik Lamela
+15,0.17,0.16,0.16,dk DEN,"1,097","MF,FW",27,Christian Eriksen
+16,0.08,0.01,0.01,eng ENG,893,DF,29,Danny Rose
+17,0.05,0.02,0.02,wal WAL,811,DF,26,Ben Davies
+18,0.13,0.08,0.08,ar ARG,989,"MF,FW",23,Giovani Lo Celso
+19,0.00,0.01,0.01,eng ENG,525,DF,20,Japhet Tanganga
+20,0.12,0.22,0.22,nl NED,503,FW,21,Steven Bergwijn
+21,0.01,0.03,0.03,eng ENG,342,DF,19,Ryan Sessegnon
+22,0.03,0.01,0.01,eng ENG,241,DF,22,Kyle Walker-Peters
+23,0.03,0.00,0.00,ar ARG,68,DF,21,Juan Foyth
+24,0.00,0.00,0.00,eng ENG,58,"MF,DF",18,Oliver Skipp
+25,0.20,0.08,0.08,pt POR,65,"MF,DF",20,Gedson Fernandes
+26,0.00,0.00,0.00,ke KEN,25,MF,28,Victor Wanyama
+27,0.00,0.00,0.00,ie IRL,7,MF,17,Troy Parrott
+28,0.00,0.59,0.59,fr FRA,3,FW,24,Georges-Kévin N'Koudou
+29,,,,eng ENG,,GK,20,Brandon Austin
+30,,,,nl NED,,GK,35,Michel Vorm
+31,,,,eng ENG,,MF,17,Harvey White
+32,,,,eng ENG,,GK,20,Alfie Whiteman

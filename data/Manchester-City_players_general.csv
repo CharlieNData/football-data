@@ -1,0 +1,28 @@
+,nationality,player,xa_per90,position,age,minutes,npxg_per90,xg_per90
+0,br BRA,Ederson,0.00,GK,25,"2,441",0.00,0.00
+1,be BEL,Kevin De Bruyne,0.54,MF,28,"2,336",0.21,0.23
+2,eng ENG,Raheem Sterling,0.27,FW,24,"2,197",0.46,0.50
+3,br BRA,Fernandinho,0.02,DF,34,"2,153",0.04,0.04
+4,es ESP,Rodri,0.06,MF,23,"2,122",0.04,0.04
+5,eng ENG,Kyle Walker,0.07,DF,29,"1,987",0.04,0.04
+6,de GER,İlkay Gündoğan,0.13,MF,28,"1,773",0.15,0.23
+7,pt POR,Bernardo Silva,0.25,"FW,MF",24,"1,667",0.29,0.29
+8,dz ALG,Riyad Mahrez,0.42,FW,28,"1,603",0.24,0.29
+9,ar ARG,Sergio Agüero,0.16,FW,31,"1,452",0.74,0.88
+10,es ESP,David Silva,0.25,MF,33,"1,445",0.29,0.29
+11,ar ARG,Nicolás Otamendi,0.01,DF,31,"1,523",0.14,0.14
+12,fr FRA,Benjamin Mendy,0.08,DF,25,"1,263",0.02,0.02
+13,br BRA,Gabriel Jesus,0.10,FW,22,"1,504",0.77,0.81
+14,ua UKR,Oleksandr Zinchenko,0.07,DF,22,"1,028",0.03,0.03
+15,eng ENG,John Stones,0.01,DF,25,906,0.06,0.06
+16,pt POR,João Cancelo,0.11,DF,25,875,0.02,0.02
+17,fr FRA,Aymeric Laporte,0.01,DF,25,676,0.01,0.01
+18,eng ENG,Phil Foden,0.19,"FW,MF",19,467,0.22,0.22
+19,es ESP,Angeliño,0.25,DF,22,423,0.05,0.05
+20,es ESP,Eric García,0.00,DF,18,362,0.00,0.00
+21,cl CHI,Claudio Bravo,0.00,GK,36,347,0.00,0.00
+22,de GER,Leroy Sané,0.00,FW,23,12,0.75,0.75
+23,eng ENG,Scott Carson,,GK,33,,,
+24,eng ENG,Thomas Doyle,,MF,17,,,
+25,eng ENG,Taylor Harwood-Bellis,,DF,17,,,
+26,eng ENG,Cole Palmer,,MF,17,,,

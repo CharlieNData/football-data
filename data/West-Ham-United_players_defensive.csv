@@ -1,0 +1,29 @@
+,age,pressure_regains,position,pressures,nationality,dribble_tackles,dribble_tackles_pct,minutes_90s,player,dribbles_vs,pressure_regain_pct
+0,20,203,MF,685,eng ENG,26,31.3,31.0,Declan Rice,83,29.6
+1,32,119,MF,457,eng ENG,14,21.5,25.5,Mark Noble,65,26.0
+2,29,101,DF,306,eng ENG,21,38.9,24.5,Aaron Cresswell,54,33.0
+3,31,91,DF,254,it ITA,12,37.5,24.0,Angelo Ogbonna,32,35.8
+4,25,118,FW,558,fr FRA,3,11.1,23.9,Sébastien Haller,27,21.1
+5,22,66,DF,204,fr FRA,13,46.4,23.7,Issa Diop,28,32.4
+6,26,78,DF,270,eng ENG,28,49.1,19.9,Ryan Fredericks,57,28.9
+7,26,104,"MF,FW",370,br BRA,11,22.9,16.6,Felipe Anderson,48,28.1
+8,34,2,GK,10,pl POL,0,0.0,16.5,Łukasz Fabiański,3,20.0
+9,23,118,"MF,FW",502,es ESP,14,25.9,17.9,Pablo Fornals,54,23.5
+10,31,90,"MF,FW",367,sco SCO,10,25.0,16.8,Robert Snodgrass,40,24.5
+11,27,39,DF,115,py PAR,6,23.1,13.0,Fabián Balbuena,26,33.9
+12,26,69,"MF,FW",317,ar ARG,5,16.1,13.7,Manuel Lanzini,31,21.8
+13,29,57,"FW,MF",261,eng ENG,2,22.2,13.4,Michail Antonio,9,21.8
+14,25,62,DF,213,cd COD,10,35.7,10.1,Arthur Masuaku,28,29.1
+15,29,43,MF,147,ua UKR,5,25.0,9.3,Andriy Yarmolenko,20,29.3
+16,33,0,GK,0,es ESP,0,,7.6,Roberto,0,
+17,34,27,DF,93,ar ARG,4,26.7,6.6,Pablo Zabaleta,15,29.0
+18,18,34,DF,112,eng ENG,7,30.4,4.9,Jeremy Ngakia,23,30.4
+19,24,40,MF,140,cz CZE,2,16.7,4.6,Tomáš Souček,12,28.6
+20,33,1,GK,1,eng ENG,0,,4.8,David Martin,0,100.0
+21,22,27,"FW,MF",96,eng ENG,3,42.9,4.0,Jarrod Bowen,7,28.1
+22,32,0,GK,0,ie IRL,0,,2.0,Darren Randolph,0,
+23,27,18,MF,56,eng ENG,1,16.7,2.0,Jack Wilshere,6,32.1
+24,33,6,"MF,DF",26,co COL,1,100.0,1.3,Carlos Sánchez,1,23.1
+25,31,6,FW,26,mx MEX,0,0.0,1.2,Javier Hernández,1,23.1
+26,22,1,"MF,FW",21,ch SUI,0,,1.5,Albian Ajeti,0,4.8
+27,21,4,MF,13,eng ENG,0,,0.4,Nathan Holland,0,30.8

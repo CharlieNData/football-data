@@ -1,0 +1,24 @@
+,nationality,pressure_regain_pct,minutes_90s,player,dribble_tackles_pct,dribble_tackles,dribbles_vs,position,age,pressure_regains,pressures
+0,br BRA,20.0,27.1,Ederson,50.0,1,2,GK,25,1,5
+1,be BEL,29.0,26.0,Kevin De Bruyne,18.5,10,54,MF,28,135,465
+2,eng ENG,30.9,24.4,Raheem Sterling,31.0,9,29,FW,24,112,362
+3,br BRA,40.6,23.9,Fernandinho,42.5,17,40,DF,34,73,180
+4,es ESP,28.9,23.6,Rodri,39.3,22,56,MF,23,115,398
+5,eng ENG,39.2,22.1,Kyle Walker,57.1,16,28,DF,29,89,227
+6,de GER,28.5,19.7,İlkay Gündoğan,19.0,8,42,MF,28,67,235
+7,pt POR,29.2,18.5,Bernardo Silva,26.2,11,42,"FW,MF",24,104,356
+8,dz ALG,27.9,17.8,Riyad Mahrez,22.5,9,40,FW,28,96,344
+9,ar ARG,25.2,16.1,Sergio Agüero,16.7,1,6,FW,31,56,222
+10,es ESP,30.9,16.1,David Silva,40.0,10,25,MF,33,77,249
+11,ar ARG,29.7,16.9,Nicolás Otamendi,44.8,13,29,DF,31,27,91
+12,fr FRA,26.8,14.0,Benjamin Mendy,26.9,7,26,DF,25,34,127
+13,br BRA,31.2,16.7,Gabriel Jesus,22.7,5,22,FW,22,108,346
+14,ua UKR,30.3,11.4,Oleksandr Zinchenko,41.9,13,31,DF,22,37,122
+15,eng ENG,45.3,10.1,John Stones,50.0,4,8,DF,25,34,75
+16,pt POR,32.1,9.7,João Cancelo,41.2,14,34,DF,25,42,131
+17,fr FRA,39.5,7.5,Aymeric Laporte,33.3,3,9,DF,25,15,38
+18,eng ENG,25.4,5.2,Phil Foden,41.7,5,12,"FW,MF",19,47,185
+19,es ESP,38.3,4.7,Angeliño,83.3,5,6,DF,22,18,47
+20,es ESP,32.4,4.0,Eric García,100.0,3,3,DF,18,11,34
+21,cl CHI,,3.9,Claudio Bravo,,0,0,GK,36,0,0
+22,de GER,,0.1,Leroy Sané,,0,0,FW,23,0,0

@@ -1,0 +1,27 @@
+,position,passes_pct,passes_completed,passes,passes_progressive_distance,age,minutes_90s,nationality,player
+0,GK,42.7,445,1042,17199,36,32.0,eng ENG,Ben Foster
+1,MF,78.8,1118,1419,4120,26,29.5,fr FRA,Abdoulaye Doucouré
+2,DF,83.0,719,866,4906,30,27.6,nir NIR,Craig Cathcart
+3,MF,81.0,1069,1320,5868,31,26.6,fr FRA,Étienne Capoue
+4,FW,73.3,603,823,2555,25,23.3,es ESP,Gerard Deulofeu
+5,MF,72.2,498,690,2496,24,19.5,eng ENG,Will Hughes
+6,DF,80.1,558,697,4227,29,20.2,eng ENG,Craig Dawson
+7,DF,77.1,794,1030,5238,28,19.7,es ESP,Kiko Femenía
+8,FW,55.2,300,543,1568,31,19.6,eng ENG,Troy Deeney
+9,DF,76.1,373,490,3195,28,19.0,be BEL,Christian Kabasele
+10,"FW,MF",72.3,324,448,1284,21,16.6,sn SEN,Ismaila Sarr
+11,DF,61.4,478,778,4994,25,16.4,it ITA,Adam Masina
+12,"FW,MF",81.8,478,584,1683,28,16.3,ar ARG,Roberto Pereyra
+13,DF,72.6,336,463,2824,32,13.8,jm JAM,Adrian Mariappa
+14,DF,70.9,431,608,3850,35,11.4,gr GRE,José Holebas
+15,MF,74.2,222,299,1042,24,8.9,eng ENG,Nathaniel Chalobah
+16,MF,80.1,277,346,1374,29,8.0,eng ENG,Tom Cleverley
+17,FW,65.3,94,144,315,28,8.1,eng ENG,Andre Gray
+18,DF,75.4,257,341,1698,30,6.7,nl NED,Daryl Janmaat
+19,"FW,MF",77.9,67,86,239,28,4.6,eng ENG,Danny Welbeck
+20,"MF,DF",76.9,10,13,63,26,0.7,fr FRA,Dimitri Foulquier
+21,DF,60.0,6,10,55,32,0.6,at AUT,Sebastian Prödl
+22,"FW,DF",58.1,18,31,145,23,0.8,ar ARG,Ignacio Pussetto
+23,"FW,MF",66.7,14,21,37,23,0.8,ng NGA,Isaac Success
+24,MF,100.0,9,9,21,19,0.2,pt POR,Domingos Quina
+25,FW,75.0,6,8,19,17,0.2,br BRA,João Pedro
