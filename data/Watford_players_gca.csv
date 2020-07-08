@@ -1,0 +1,27 @@
+,age,nationality,sca_per90,minutes_90s,player,gca,sca,gca_per90,position
+0,36,eng ENG,0.16,32.0,Ben Foster,1,5,0.03,GK
+1,26,fr FRA,2.41,29.5,Abdoulaye Doucouré,4,71,0.14,MF
+2,30,nir NIR,0.18,27.6,Craig Cathcart,1,5,0.04,DF
+3,31,fr FRA,1.35,26.6,Étienne Capoue,2,36,0.08,MF
+4,25,es ESP,3.78,23.3,Gerard Deulofeu,7,88,0.30,FW
+5,24,eng ENG,1.59,19.5,Will Hughes,3,31,0.15,MF
+6,29,eng ENG,0.25,20.2,Craig Dawson,0,5,0.00,DF
+7,28,es ESP,1.02,19.7,Kiko Femenía,0,20,0.00,DF
+8,31,eng ENG,1.89,19.6,Troy Deeney,5,37,0.25,FW
+9,28,be BEL,0.32,19.0,Christian Kabasele,2,6,0.11,DF
+10,21,sn SEN,3.13,16.6,Ismaila Sarr,5,52,0.30,"FW,MF"
+11,25,it ITA,1.10,16.4,Adam Masina,1,18,0.06,DF
+12,28,ar ARG,2.45,16.3,Roberto Pereyra,1,40,0.06,"FW,MF"
+13,32,jm JAM,0.58,13.8,Adrian Mariappa,0,8,0.00,DF
+14,35,gr GRE,1.58,11.4,José Holebas,0,18,0.00,DF
+15,24,eng ENG,1.47,8.9,Nathaniel Chalobah,2,13,0.23,MF
+16,29,eng ENG,3.39,8.0,Tom Cleverley,1,27,0.13,MF
+17,28,eng ENG,1.73,8.1,Andre Gray,1,14,0.12,FW
+18,30,nl NED,2.08,6.7,Daryl Janmaat,1,14,0.15,DF
+19,28,eng ENG,0.88,4.6,Danny Welbeck,0,4,0.00,"FW,MF"
+20,26,fr FRA,1.53,0.7,Dimitri Foulquier,0,1,0.00,"MF,DF"
+21,32,at AUT,0.00,0.6,Sebastian Prödl,0,0,0.00,DF
+22,23,ar ARG,0.00,0.8,Ignacio Pussetto,0,0,0.00,"FW,DF"
+23,23,ng NGA,5.14,0.8,Isaac Success,0,4,0.00,"FW,MF"
+24,19,pt POR,0.00,0.2,Domingos Quina,0,0,0.00,MF
+25,17,br BRA,0.00,0.2,João Pedro,0,0,0.00,FW

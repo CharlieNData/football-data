@@ -1,35 +1,36 @@
-,age,minutes,xg_per90,position,npxg_per90,nationality,player,xa_per90
-0,20,"2,790",0.02,MF,0.02,eng ENG,Declan Rice,0.04
-1,32,"2,298",0.11,MF,0.02,eng ENG,Mark Noble,0.06
-2,29,"2,203",0.05,DF,0.05,eng ENG,Aaron Cresswell,0.07
-3,31,"2,160",0.06,DF,0.06,it ITA,Angelo Ogbonna,0.00
-4,25,"2,147",0.30,FW,0.30,fr FRA,Sébastien Haller,0.08
-5,22,"2,136",0.06,DF,0.06,fr FRA,Issa Diop,0.01
-6,26,"1,787",0.00,DF,0.00,eng ENG,Ryan Fredericks,0.08
-7,26,"1,493",0.15,"MF,FW",0.15,br BRA,Felipe Anderson,0.17
-8,34,"1,487",0.00,GK,0.00,pl POL,Łukasz Fabiański,0.00
-9,23,"1,615",0.16,"MF,FW",0.16,es ESP,Pablo Fornals,0.11
-10,31,"1,509",0.15,"MF,FW",0.15,sco SCO,Robert Snodgrass,0.17
-11,27,"1,171",0.13,DF,0.13,py PAR,Fabián Balbuena,0.00
-12,26,"1,232",0.13,"MF,FW",0.13,ar ARG,Manuel Lanzini,0.17
-13,29,"1,210",0.39,"FW,MF",0.39,eng ENG,Michail Antonio,0.14
-14,25,913,0.01,DF,0.01,cd COD,Arthur Masuaku,0.09
-15,29,837,0.16,MF,0.16,ua UKR,Andriy Yarmolenko,0.27
-16,33,687,0.00,GK,0.00,es ESP,Roberto,0.00
-17,34,592,0.01,DF,0.01,ar ARG,Pablo Zabaleta,0.06
-18,18,440,0.01,DF,0.01,eng ENG,Jeremy Ngakia,0.00
-19,24,410,0.03,MF,0.03,cz CZE,Tomáš Souček,0.00
-20,33,436,0.00,GK,0.00,eng ENG,David Martin,0.00
-21,22,364,0.18,"FW,MF",0.18,eng ENG,Jarrod Bowen,0.18
-22,32,180,0.00,GK,0.00,ie IRL,Darren Randolph,0.00
-23,27,178,0.00,MF,0.00,eng ENG,Jack Wilshere,0.00
-24,33,117,0.00,"MF,DF",0.00,co COL,Carlos Sánchez,0.00
-25,31,107,0.62,FW,0.62,mx MEX,Javier Hernández,0.00
-26,22,134,0.07,"MF,FW",0.07,ch SUI,Albian Ajeti,0.04
-27,21,33,0.10,MF,0.10,eng ENG,Nathan Holland,0.00
-28,19,,,GK,,gh GHA,Joseph Anang,
-29,18,,,DF,,pt POR,Gonçalo Cardoso,
-30,18,,,MF,,br BRA,Bernardo Costa Da Rosa,
-31,19,,,DF,,eng ENG,Ben Johnson,
-32,31,,,DF,,nz NZL,Winston Reid,
-33,22,,,FW,,pt POR,Xande Silva,
+,age,assists_per90,minutes,nationality,goals_per90,goals,assists,player,npxg_per90,xg_per90,position,xa_per90
+0,20,0.06,"2,880",eng ENG,0.00,0,2,Declan Rice,0.02,0.02,MF,0.04
+1,32,0.04,"2,298",eng ENG,0.16,4,1,Mark Noble,0.02,0.11,MF,0.06
+2,29,0.00,"2,293",eng ENG,0.12,3,0,Aaron Cresswell,0.05,0.05,DF,0.07
+3,31,0.00,"2,250",it ITA,0.08,2,0,Angelo Ogbonna,0.06,0.06,DF,0.00
+4,22,0.00,"2,226",fr FRA,0.12,3,0,Issa Diop,0.06,0.06,DF,0.01
+5,25,0.04,"2,147",fr FRA,0.29,7,1,Sébastien Haller,0.30,0.30,FW,0.08
+6,26,0.10,"1,877",eng ENG,0.00,0,2,Ryan Fredericks,0.00,0.00,DF,0.07
+7,26,0.24,"1,493",br BRA,0.06,1,4,Felipe Anderson,0.15,0.15,"MF,FW",0.17
+8,34,0.00,"1,577",pl POL,0.00,0,0,Łukasz Fabiański,0.00,0.00,GK,0.00
+9,23,0.26,"1,704",es ESP,0.11,2,5,Pablo Fornals,0.15,0.15,"MF,FW",0.11
+10,31,0.30,"1,509",sco SCO,0.30,5,5,Robert Snodgrass,0.15,0.15,"MF,FW",0.17
+11,29,0.21,"1,300",eng ENG,0.21,3,3,Michail Antonio,0.46,0.46,"FW,MF",0.15
+12,26,0.14,"1,299",ar ARG,0.00,0,2,Manuel Lanzini,0.13,0.13,"MF,FW",0.16
+13,27,0.00,"1,172",py PAR,0.08,1,0,Fabián Balbuena,0.13,0.13,DF,0.00
+14,25,0.10,913,cd COD,0.00,0,1,Arthur Masuaku,0.01,0.01,DF,0.09
+15,29,0.11,850,ua UKR,0.42,4,1,Andriy Yarmolenko,0.19,0.19,MF,0.26
+16,33,0.00,687,es ESP,0.00,0,0,Roberto,0.00,0.00,GK,0.00
+17,34,0.00,592,ar ARG,0.00,0,0,Pablo Zabaleta,0.01,0.01,DF,0.06
+18,24,0.00,500,cz CZE,0.18,1,0,Tomáš Souček,0.14,0.14,MF,0.05
+19,22,0.41,441,eng ENG,0.20,1,2,Jarrod Bowen,0.15,0.15,"FW,MF",0.35
+20,18,0.00,440,eng ENG,0.00,0,0,Jeremy Ngakia,0.01,0.01,DF,0.00
+21,33,0.00,436,eng ENG,0.00,0,0,David Martin,0.00,0.00,GK,0.00
+22,27,0.00,201,eng ENG,0.00,0,0,Jack Wilshere,0.00,0.00,MF,0.00
+23,32,0.00,180,ie IRL,0.00,0,0,Darren Randolph,0.00,0.00,GK,0.00
+24,33,0.00,117,co COL,0.00,0,0,Carlos Sánchez,0.00,0.00,"MF,DF",0.00
+25,31,0.00,107,mx MEX,0.84,1,0,Javier Hernández,0.62,0.62,FW,0.00
+26,22,0.00,134,ch SUI,0.00,0,0,Albian Ajeti,0.07,0.07,"MF,FW",0.04
+27,21,0.00,33,eng ENG,0.00,0,0,Nathan Holland,0.10,0.10,MF,0.00
+28,19,,,gh GHA,,,,Joseph Anang,,,GK,
+29,18,,,pt POR,,,,Gonçalo Cardoso,,,DF,
+30,18,,,br BRA,,,,Bernardo Costa Da Rosa,,,MF,
+31,19,,,eng ENG,,,,Ben Johnson,,,DF,
+32,19,,,eng ENG,,,,Alfie Lewis,,,MF,
+33,31,,,nz NZL,,,,Winston Reid,,,DF,
+34,22,,,pt POR,,,,Xande Silva,,,FW,

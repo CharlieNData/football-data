@@ -1,29 +1,29 @@
-,position,age,nationality,player,minutes_90s,carry_progressive_distance
-0,"FW,MF",23,eng ENG,Jack Grealish,29.9,7778
-1,DF,26,eng ENG,Tyrone Mings,26.2,2491
-2,DF,23,eng ENG,Matt Targett,21.9,1679
-3,"FW,MF",24,nl NED,Anwar El Ghazi,21.0,2405
-4,MF,21,br BRA,Douglas Luiz,23.1,2778
-5,DF,24,fr FRA,Frederic Guilbert,21.1,2021
-6,MF,24,sco SCO,John McGinn,20.1,2401
-7,FW,22,br BRA,Wesley Moraes,19.8,565
-8,GK,33,eng ENG,Tom Heaton,19.9,696
-9,MF,25,zw ZIM,Marvelous Nakamba,19.6,1050
-10,DF,21,eng ENG,Ezri Konsa,16.7,1040
-11,DF,24,be BEL,Björn Engels,16.1,1449
-12,DF,24,eng ENG,Kortney Hause,15.0,1503
-13,"FW,MF",24,eg EGY,Trézéguet,16.1,2395
-14,MF,28,ie IRL,Conor Hourihane,13.2,567
-15,DF,30,wal WAL,Neil Taylor,9.7,462
-16,DF,31,eg EGY,Ahmed Elmohamady,9.2,1129
-17,FW,26,tz TAN,Mbwana Samatta,6.5,183
-18,GK,36,es ESP,Pepe Reina,6.0,265
-19,GK,28,no NOR,Ørjan Nyland,6.0,360
-20,"FW,MF",28,es ESP,Jota,3.5,528
-21,MF,29,eng ENG,Danny Drinkwater,2.9,173
-22,FW,21,eng ENG,Keinan Davis,4.0,417
-23,MF,28,eng ENG,Henri Lansbury,2.2,58
-24,GK,26,eng ENG,Jed Steer,0.1,0
-25,"FW,MF",29,ci CIV,Jonathan Kodjia,1.3,100
-26,FW,18,us USA,Indiana Vassilev,0.4,16
-27,"MF,FW",26,es ESP,Borja Bastón,0.2,19
+,age,nationality,minutes_90s,player,position,carry_progressive_distance
+0,23,eng ENG,29.9,Jack Grealish,"FW,MF",7778
+1,26,eng ENG,26.2,Tyrone Mings,DF,2491
+2,23,eng ENG,21.9,Matt Targett,DF,1679
+3,24,nl NED,21.0,Anwar El Ghazi,"FW,MF",2405
+4,21,br BRA,23.1,Douglas Luiz,MF,2778
+5,24,fr FRA,21.1,Frederic Guilbert,DF,2021
+6,24,sco SCO,20.1,John McGinn,MF,2401
+7,22,br BRA,19.8,Wesley Moraes,FW,565
+8,33,eng ENG,19.9,Tom Heaton,GK,696
+9,25,zw ZIM,19.6,Marvelous Nakamba,MF,1050
+10,21,eng ENG,16.7,Ezri Konsa,DF,1040
+11,24,be BEL,16.1,Björn Engels,DF,1449
+12,24,eng ENG,15.0,Kortney Hause,DF,1503
+13,24,eg EGY,16.1,Trézéguet,"FW,MF",2395
+14,28,ie IRL,13.2,Conor Hourihane,MF,567
+15,30,wal WAL,9.7,Neil Taylor,DF,462
+16,31,eg EGY,9.2,Ahmed Elmohamady,DF,1129
+17,26,tz TAN,6.5,Mbwana Samatta,FW,183
+18,36,es ESP,6.0,Pepe Reina,GK,265
+19,28,no NOR,6.0,Ørjan Nyland,GK,360
+20,28,es ESP,3.5,Jota,"FW,MF",528
+21,29,eng ENG,2.9,Danny Drinkwater,MF,173
+22,21,eng ENG,4.0,Keinan Davis,FW,417
+23,28,eng ENG,2.2,Henri Lansbury,MF,58
+24,26,eng ENG,0.1,Jed Steer,GK,0
+25,29,ci CIV,1.3,Jonathan Kodjia,"FW,MF",100
+26,18,us USA,0.4,Indiana Vassilev,FW,16
+27,26,es ESP,0.2,Borja Bastón,"MF,FW",19

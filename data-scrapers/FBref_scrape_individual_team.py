@@ -23,7 +23,7 @@ def scrapeURL(url):
     # Get table for goals and assists
     player_general_div = soup.find(id="div_kitchen_sink_standard")
     player_general_table_body = get_table_body(player_general_div)
-    features_wanted_player_general = {"player", "nationality","position","age", "minutes", "xg_per90", "xa_per90", "npxg_per90"}
+    features_wanted_player_general = {"player", "nationality","position","age", "minutes", "goals", "goals_per90", "assists", "assists_per90", "xg_per90", "xa_per90", "npxg_per90"}
 
     # Get table for defensive actions
     player_defence_div = soup.find(id="div_kitchen_sink_defense")
@@ -39,6 +39,11 @@ def scrapeURL(url):
     player_possession_div = soup.find(id="div_kitchen_sink_possession")
     player_possession_table_body = get_table_body(player_possession_div)
     features_wanted_player_possession = {"player", "nationality","position","age", "minutes_90s", "carry_progressive_distance"}
+
+    # Get table for goal and shot creation
+    gca_div = soup.find(id="div_kitchen_sink_gca")
+    gca_table_body = get_table_body(gca_div)
+    features_wanted_gca = {"player", "nationality", "position", "age", "minutes_90s", "sca", "sca_per90", "gca", "gca_per90"}
 
     def parse_table(table, features):
         pre_df = dict()
@@ -71,7 +76,10 @@ def scrapeURL(url):
     # possession player data
     df_player_possession = parse_table(player_possession_table_body, features_wanted_player_possession)
 
-    return df_player_general, df_player_defensive, df_player_passing, df_player_possession
+    # gca data
+    df_player_gca = parse_table(gca_table_body, features_wanted_gca)
+
+    return df_player_general, df_player_defensive, df_player_passing, df_player_possession, df_player_gca
     
     
 def main(argv):
@@ -95,7 +103,7 @@ def main(argv):
 
     for url in urls:
         print(url)
-        df_player_general, df_player_defence, df_player_passing, df_player_possession = scrapeURL(url)
+        df_player_general, df_player_defence, df_player_passing, df_player_possession, df_gca = scrapeURL(url)
         
         k = url.rfind("/")
         output_name = url[k+1:]
@@ -103,6 +111,7 @@ def main(argv):
         df_player_defence.to_csv(os.path.join(path, output_name+"_players_defensive.csv"))
         df_player_passing.to_csv(os.path.join(path, output_name+"_players_passing.csv"))
         df_player_possession.to_csv(os.path.join(path, output_name+"_players_possession.csv"))
+        df_gca.to_csv(os.path.join(path, output_name+"_players_gca.csv"))
     
 if __name__ == "__main__":
    main(sys.argv[1:])
