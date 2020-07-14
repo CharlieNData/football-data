@@ -7,42 +7,60 @@ import os, re
 import sys, getopt
 import csv
 
-def scrapeURL(url):
+def scrapeURL(url, table_type):
     res = requests.get(url)
+    
+    # The type of table we are looking to parse
+    squad_div_id = "div_stats_"+table_type+"_squads"
+    player_div_id = "div_stats_"+table_type
+
     ## The next two lines get around the issue with comments breaking the parsing.
     comm = re.compile("<!--|-->")
     soup = BeautifulSoup(comm.sub("",res.text),'lxml')
-    squad_passing_table = soup.find(id="stats_passing_squads")
-    squad_passing_table_body = squad_passing_table.find('tbody')
+    squad_div = soup.find(id=squad_div_id)
+    players_div = soup.find(id=player_div_id)
+
+    def get_table_body(div):
+        table = div.find('table')
+        table_body = table.find('tbody')
+        return table_body
+
+    squad_table_body = get_table_body(squad_div)
+    players_table_body = get_table_body(players_div)
 
     #Parse team_table
-    pre_df_squad = dict()
     #Note: features does not contain squad name, it requires special treatment
-    features_wanted_squad = {"passes_completed","passes","passes_pct","passes_total_distance","passes_progressive_distance"}
-    rows_squad = squad_passing_table_body.find_all('tr')
-    for row in rows_squad:
-        if(row.find('th',{"scope":"row"}) != None):
-            name = row.find('th',{"data-stat":"squad"}).text.strip().encode().decode("utf-8")
-            if 'squad' in pre_df_squad:
-                pre_df_squad['squad'].append(name)
-            else:
-                pre_df_squad['squad'] = [name]
-            for f in features_wanted_squad:
-                cell = row.find("td",{"data-stat": f})
-                a = cell.text.strip().encode()
-                text=a.decode("utf-8")
-                if f in pre_df_squad:
-                    pre_df_squad[f].append(text)
-                else:
-                    pre_df_squad[f] = [text]
-    df_squad = pd.DataFrame.from_dict(pre_df_squad)
+    features_wanted_squad = {"squad","passes_pressure","passes_completed","passes"}
+    features_wanted_player = {"player","position","minutes_90s","passes_pressure","passes_completed","passes","through_balls"}
+    def parse_table(table, features):
+        pre_df = dict()
+        rows = table.find_all('tr')
+        for row in rows:
+            if(row.find('th',{"scope":"row"}) != None):
+                for f in features:
+                    if f == "player" or f == "squad":
+                        cell = row.find("a")
+                    else:
+                        cell = row.find("td",{"data-stat": f})
+                    a = cell.text.strip().encode()
+                    text=a.decode("utf-8")
+                    if f in pre_df:
+                        pre_df[f].append(text)
+                    else:
+                        pre_df[f] = [text]
+        df = pd.DataFrame.from_dict(pre_df)
+        return df    
     
-    return df_squad
+    df_squad = parse_table(squad_table_body, features_wanted_squad)
+    df_players = parse_table(players_table_body, features_wanted_player)
+
+    return (df_squad, df_players)
     
     
 def main(argv):
     urls = pd.DataFrame()
-    
+    table_type = "passing_types"
+
     try:
         opts, args = getopt.getopt(argv,"hf:",["file="])
     except getopt.GetoptError:
@@ -61,13 +79,13 @@ def main(argv):
 
     for url in urls:
         print(url)
-        df_squad = scrapeURL(url)
+        (df_squad, df_players) = scrapeURL(url, table_type)
         
         k = url.rfind("/")
         output_name = url[k+1:]
-        df_squad.to_csv(os.path.join(path, output_name+"_squad_passing.csv"))
+        df_squad.to_csv(os.path.join(path, output_name+"_squad_"+table_type+".csv"))
+        df_players.to_csv(os.path.join(path, output_name+"_players_"+table_type+".csv"))
     
-
 
 if __name__ == "__main__":
    main(sys.argv[1:])

@@ -31,10 +31,7 @@ def scrapeURL(url):
         for row in rows:
             if(row.find('th',{"scope":"row"}) != None):
                 for f in features:                    
-                    if f == "player":
-                        cell = row.find("a")
-                    else:
-                        cell = row.find("td",{"data-stat": f})
+                    cell = row.find("td",{"data-stat": f})
                     a = cell.text.strip().encode()
                     text=a.decode("utf-8")
                     if f in pre_df:
