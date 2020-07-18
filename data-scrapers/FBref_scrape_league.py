@@ -31,15 +31,17 @@ def scrapeURL(url, table_type):
     #Parse team_table
     #Note: features does not contain squad name, it requires special treatment
     features_wanted_squad = {"squad","passes_pressure","passes_completed","passes"}
-    features_wanted_player = {"player","position","minutes_90s","passes_pressure","passes_completed","passes","through_balls"}
+    features_wanted_player = {"player","squad","position","minutes_90s","passes_pressure","passes_completed","passes","through_balls"}
     def parse_table(table, features):
         pre_df = dict()
         rows = table.find_all('tr')
         for row in rows:
             if(row.find('th',{"scope":"row"}) != None):
                 for f in features:
-                    if f == "player" or f == "squad":
+                    if f == "player":
                         cell = row.find("a")
+                    elif f == "squad":
+                        cell = row.select("a[href*=squads]")[0]
                     else:
                         cell = row.find("td",{"data-stat": f})
                     a = cell.text.strip().encode()

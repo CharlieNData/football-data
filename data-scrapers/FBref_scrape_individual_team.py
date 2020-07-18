@@ -43,7 +43,7 @@ def scrapeURL(url):
     # Get table for goal and shot creation
     gca_div = soup.find(id="div_kitchen_sink_gca")
     gca_table_body = get_table_body(gca_div)
-    features_wanted_gca = {"player", "nationality", "position", "age", "minutes_90s", "sca", "sca_per90", "gca", "gca_per90"}
+    features_wanted_gca = {"player","nationality", "position", "age", "minutes_90s", "sca", "sca_per90", "gca", "gca_per90"}
 
     def parse_table(table, features):
         pre_df = dict()
